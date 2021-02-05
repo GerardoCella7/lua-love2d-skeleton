@@ -1,1 +1,1 @@
-# lua-love2d-skeleton
+# Squelette pour les projets LOVE 2D et LUA
